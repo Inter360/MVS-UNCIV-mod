@@ -1,0 +1,33 @@
+[
+	{
+		"name": "MVS",
+		"leaderName": "Маркус",
+		"adjective": ["MVS"],
+		"favoredReligion": "Christianity",
+		"startBias": ["Coast"],
+        "preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Вітаємо в MVS. Вас вибрали як керівника. Надіємося, ви виправдаєте сподівання людей",
+		"startIntroPart2": "Також, нам відомо про ворожі країни. Ми за мирні переговори, но якщо знадобиться, тодоведеться їх всіх захватити...",
+
+		"declaringWar": ["Мені доведеться вас захватити.","Приготуйтеся до наступу.","Я заберу у вас командування. Насильним шляхом"],
+		"attacked": ["Це був ваш вибір.","Ви пошкодуєте.","ЦЕ не найрозумніше рішення було"],
+		"defeated": ["Значить, я не достатньо старався..."],
+		"introduction": ["Надіюсь, ми найдемо спільну мову."],
+
+		"neutralHello": ["Вітаю.","Слухаю вас","Весь в увазі"],
+        
+
+		"hateHello": ["Слухаю вас."],
+
+		"tradeRequest": ["Є пропозиція."],
+		"outerColor": [0,0,0],
+		"innerColor": [127,0,255],
+		"uniqueName": "MVS",
+		"uniques": ["[+1 Production] from every [Farm]"],
+		"cities": ["MVS","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Vigan","Puerto Princesa","Davao","Aparri","Ilo-ilo","Zamboanga","Albay","Cebú",
+			"Iligan","Balanga","Tacloban","Surigao","Mórong","Bacolód","Tayabas","Tagbilaran","Daet","Catbalogan","Nueva Cáceres","Cápix","Sorsogon","Concepción","Binangonan",
+			"San José de Buenavista","Iba","Dumaguete","Calapan","Dagupan","Baler","Bayombong","La Trinidad","San Fernando","Ilagan","Cagayán","Binorungan","Bangued","Laoag"
+	   		]
+	}        	
+]
