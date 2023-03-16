@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Monument of Hope",
+        "replaces": "Monument",
+		"uniqueTo": "MVS",
+		"culture": 20,
+		"cost": 40,
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	}
+]
