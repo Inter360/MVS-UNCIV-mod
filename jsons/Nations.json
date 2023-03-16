@@ -5,7 +5,7 @@
 		"adjective": ["MVS"],
 		"favoredReligion": "Christianity",
 		"startBias": ["Coast"],
-        "preferredVictoryType": "Scientific",
+        "preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Вітаємо в MVS. Вас вибрали як керівника. Надіємося, ви виправдаєте сподівання людей",
 		"startIntroPart2": "Також, нам відомо про ворожі країни. Ми за мирні переговори, но якщо знадобиться, тодоведеться їх всіх захватити...",
@@ -16,7 +16,9 @@
 		"introduction": ["Надіюсь, ми найдемо спільну мову."],
 
 		"neutralHello": ["Вітаю.","Слухаю вас","Весь в увазі"],
-        
+        "neutralLetsHearIt": ["НЕВІДОМА ФРАЗА1","НЕВІДОМА ФРАЗА2","НЕВІДОМА ФРАЗА3"],
+		"neutralNo": ["Ні","Дякую, но ні","Мене це не цікавить"],
+		"neutralYes": ["Згоден",""],
 
 		"hateHello": ["Слухаю вас."],
 
