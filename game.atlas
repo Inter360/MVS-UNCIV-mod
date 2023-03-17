@@ -10,17 +10,3 @@ NationIcons/MVS
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Monument of Hope
-  rotate: false
-  xy: 101, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Eagle
-  rotate: false
-  xy: 201, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
