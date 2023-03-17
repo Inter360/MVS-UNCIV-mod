@@ -25,7 +25,7 @@
 		"tradeRequest": "Can we trade?",
 		"innerColor": [0,0,0],
 		"outerColor": [127,0,255],
-		"uniques": ["[+50]% [Science] from City-States"],
+		"uniques": ["[+100]% [Science] from City-States","[+100]% [Culture] from City-States"],
 		"uniqueName": "MVS",
 		"cities": ["MVS","Islichester","Qatol","Zhaham","Kosall","Zibert","Cans","Qouver","Ophita","Ingmond","Inford","Yuaburgh","Qrosall","Olefron","Bliemond","Xeham","Seley","Esaburg","Oniowood","Terrough","Hebury","Tuport","Shedence","Trieby","Ophork","Fladena","Wria","Amdon","Idoburgh"]
 	}        	
