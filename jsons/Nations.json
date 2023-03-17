@@ -10,9 +10,9 @@
 		"startIntroPart2": "Also, there's somewhere other nations. Some of them won't be friendly. We need to be ready for anything",
 
 		"declaringWar": "Get ready for offense.",
-		"attacked": ["It's your choice.","You'll regret this.","This was the stupidest decision."],
-		"defeated": ["I'm not strong enough..."],
-		"introduction": ["I hope, we'll find common ground."],
+		"attacked": "You'll regret this.",
+		"defeated": "I'm not strong enough...",
+		"introduction": "I hope, we'll find common ground.",
 
 		"neutralHello": ["Greetings.","I'm listening.","Yes?"],
 		"neutralNo": ["No.","Thank you, but no.","I'm not interested."],
