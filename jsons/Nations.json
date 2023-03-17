@@ -14,15 +14,15 @@
 		"defeated": "I'm not strong enough...",
 		"introduction": "I hope, we'll find common ground.",
 
-		"neutralHello": ["Greetings.","I'm listening.","Yes?"],
-		"neutralNo": ["No.","Thank you, but no.","I'm not interested."],
-		"neutralYes": ["I'm agree.","Sure.","Fine."],
+		"neutralHello": "Greetings.",
+		"neutralNo": "Thank you, but no.",
+		"neutralYes": "I'm agree.",
 
-		"hateHello": ["Quicker.","I have no time for you."," What?"],
-		"hateNo": ["No!","Forget it.","Get lost."],
-		"hateYes":["Now, get lost.","Ok...","Fine..."],
+		"hateHello": "I have no time for you.",
+		"hateNo": "Forget it.",
+		"hateYes":"Fine...",
 
-		"tradeRequest": ["Can we trade?"],
+		"tradeRequest": "Can we trade?",
 		"outerColor": [0,0,0],
 		"innerColor": [127,0,255],
 		"uniqueName": "MVS",
