@@ -9,7 +9,7 @@
 		"startIntroPart1": "Welcome to MVS. You have been chosen to be our leader. We hope, you'll prove people's hopes.",
 		"startIntroPart2": "Also, there's somewhere other nations. Some of them won't be friendly. We need to be ready for anything",
 
-		"declaringWar": ["Get ready for a war.","Get ready for offense.","I'll take your nation. In a hard way."],
+		"declaringWar": ["Get ready for offense."],
 		"attacked": ["It's your choice.","You'll regret this.","This was the stupidest decision."],
 		"defeated": ["I'm not strong enough..."],
 		"introduction": ["I hope, we'll find common ground."],
