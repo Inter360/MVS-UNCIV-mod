@@ -1,7 +1,7 @@
 [
 	{
 		"name": "MVS",
-		"leaderName": "Маркус",
+		"leaderName": "Markus",
 		"adjective": ["MVS's"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Diplomatic",
@@ -23,8 +23,8 @@
 		"hateYes":"Fine...",
 
 		"tradeRequest": "Can we trade?",
-		"outerColor": [0,0,0],
-		"innerColor": [127,0,255],
+		"innerColor": [0,0,0],
+		"outerColor": [127,0,255],
 		"uniqueName": "MVS",
 		"cities": ["MVS","Islichester","Qatol","Zhaham","Kosall","Zibert","Cans","Qouver","Ophita","Ingmond","Inford","Yuaburgh","Qrosall","Olefron","Bliemond","Xeham","Seley","Esaburg","Oniowood","Terrough","Hebury","Tuport","Shedence","Trieby","Ophork","Fladena","Wria","Amdon","Idoburgh"]
 	}        	
