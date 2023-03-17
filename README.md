@@ -1,1 +1,3 @@
-just silly mod, adding some features
+just silly mod, adding few nations
+
+просто поганий мод, додає чучуть націй

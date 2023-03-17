@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Welcome to MVS. You have been chosen to be our leader. We hope, you'll prove people's hopes.",
-		"startIntroPart2": "Also, there's somewhere other nations. Some of them won't be friendly. We need to be ready for anything",
+		"startIntroPart2": "Also, there's somewhere other nations. Some of them won't be friendly. We need to be ready for anything.",
 
 		"declaringWar": "Get ready for offense.",
 		"attacked": "You'll regret this.",
@@ -23,10 +23,40 @@
 		"hateYes":"Fine...",
 
 		"tradeRequest": "Can we trade?",
-		"innerColor": [0,0,0],
-		"outerColor": [127,0,255],
+		"innerColor": [127,0,255],
+		"outerColor": [0,0,0],
 		"uniques": ["[+100]% [Science] from City-States","[+100]% [Culture] from City-States"],
 		"uniqueName": "MVS",
-		"cities": ["MVS","Islichester","Qatol","Zhaham","Kosall","Zibert","Cans","Qouver","Ophita","Ingmond","Inford","Yuaburgh","Qrosall","Olefron","Bliemond","Xeham","Seley","Esaburg","Oniowood","Terrough","Hebury","Tuport","Shedence","Trieby","Ophork","Fladena","Wria","Amdon","Idoburgh"]
-	}        	
+		"cities": ["MVS","Islichester","Qatol","Zhaham","Kosall","Zibert","Qouver","Ophita","Ingmond","Inford","Yuaburgh","Qrosall","Olefron","Bliemond","Xeham","Seley","Esaburg","Oniowood","Terrough","Hebury","Tuport","Shedence","Trieby","Ophork","Fladena","Wria","Amdon","Idoburgh"]
+	},
+	{
+		"name": "PMCM",
+		"leaderName": "Maks",
+		"adjective": ["PMCM's"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Welcome to Private Military Company named after Maks. It's all yours! You'll need to be good enoguh to win.",
+		"startIntroPart2": "Oh, and it seems, we have unwanted guests. Protect our technoilogies.",
+
+		"declaringWar": "I'll crush you!",
+		"attacked": "You're deadman!",
+		"defeated": "Was it worth it?",
+		"introduction": "Hello, fella.",
+
+		"neutralHello": "Hi.",
+		"neutralNo": "No.",
+		"neutralYes": "Ok.",
+
+		"hateHello": "What again?",
+		"hateNo": "Get lost.",
+		"hateYes":"If you want it so much...",
+
+		"tradeRequest": "Can I have a sugestion?",
+		"innerColor": [255,255,255],
+		"outerColor": [0,0,255],
+		"uniques": ["[+100]% [Science] from City-States","[+100]% [Gold] from City-States"],
+		"uniqueName": "PMCM",
+		"cities": ["PMCM's Center","PMCM's Factory 1","PMCM's Factory 2","PMCM's Factory 3","PMCM's Factory 4","PMCM's Factory 5","PMCM's Factory 6","PMCM's Factory 7","PMCM's Factory 8","PMCM's Factory 9","PMCM's Factory 10","PMCM's Factory 11","PMCM's Factory 12","PMCM's Factory 13","PMCM's Factory 14","PMCM's Factory 15","PMCM's Factory 16","PMCM's Factory 17","PMCM's Factory 18","PMCM's Factory 19","PMCM's Factory 20"]
+	}
 ]
