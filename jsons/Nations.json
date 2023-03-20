@@ -26,7 +26,7 @@
 		"innerColor": [127,0,255],
 		"outerColor": [0,0,0],
 		"uniques": ["[+100]% [Science]","[+100]% [Culture]"],
-		"uniqueName": "MVS",
+		"uniqueName": "People's strenght",
 		"cities": ["MVS","Islichester","Qatol","Zhaham","Kosall","Zibert","Qouver","Ophita","Ingmond","Inford","Yuaburgh","Qrosall","Olefron","Bliemond","Xeham","Seley","Esaburg","Oniowood","Terrough","Hebury","Tuport","Shedence","Trieby","Ophork","Fladena","Wria","Amdon","Idoburgh"]
 	},
 	{
@@ -56,7 +56,37 @@
 		"innerColor": [255,255,255],
 		"outerColor": [0,0 ,255],
 		"uniques": ["[+100]% [Production]","[+100]% [Gold]"],
-		"uniqueName": "PMCM",
+		"uniqueName": "Factories power",
 		"cities": ["PMCM's Center","PMCM's Factory 1","PMCM's Factory 2","PMCM's Factory 3","PMCM's Factory 4","PMCM's Factory 5","PMCM's Factory 6","PMCM's Factory 7","PMCM's Factory 8","PMCM's Factory 9","PMCM's Factory 10","PMCM's Factory 11","PMCM's Factory 12","PMCM's Factory 13","PMCM's Factory 14","PMCM's Factory 15","PMCM's Factory 16","PMCM's Factory 17","PMCM's Factory 18","PMCM's Factory 19","PMCM's Factory 20"]
+	},
+	{
+		"name": "New Zealand's Comunists",
+		"leaderName": "Merit",
+		"adjective": ["Comunistic"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Greetings, Comrade! You're our leader, and you must be the best! Our people is ready to serve you! Show them your power!",
+		"startIntroPart2": "We have enemies out here! Fight for our Mother counttry!",
+
+		"declaringWar": "Your land is mine!",
+		"attacked": "For Mother country!",
+		"defeated": "We'll be back...",
+		"introduction": "Greetings, Comrade!",
+
+		"neutralHello": "Greetings!",
+		"neutralNo": "My answer is positive.",
+		"neutralYes": "My answer is negative.",
+
+		"hateHello": "You should leave while you can...",
+		"hateNo": "Don't play with me!",
+		"hateYes":"Be happy, that I'm agree!",
+
+		"tradeRequest": "I have a trade, you can't reject!",
+		"innerColor": [255,255,0],
+		"outerColor": [0,191,0],
+		"uniques": ["[+100]% [Production]","[+100]% [Science]","[+100]% [Food]","[-100]% [Faith]"],
+		"uniqueName": "Comunistic form of goverment",
+		"cities": ["Sarorovsk","Apaysk","Volokavkaz","Gukoshikha","Balalitamak","Boroversk","Zhigukarino","Yelerbent","Belgotoust","Denyev","Sibarodvinsk","Batavgrad","Zlalovka","Nefteyulym","Birobilovsk","Buguretsk","Oktyazan","Meborg","Kuznebodny","Novoupovets"]
 	}
 ]
