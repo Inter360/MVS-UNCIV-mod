@@ -85,7 +85,7 @@
 		"tradeRequest": "I have a trade, you can't reject!",
 		"innerColor": [255,255,0],
 		"outerColor": [0,191,0],
-		"uniques": ["[+100]% [Production]","[+100]% [Science]","[+100]% [Food]","[-100]% [Faith]"],
+		"uniques": ["[+50]% [Production]","[+50]% [Science]","[+50]% [Food]","[-100]% [Faith]"],
 		"uniqueName": "Comunistic form of goverment",
 		"cities": ["Sarorovsk","Apaysk","Volokavkaz","Gukoshikha","Balalitamak","Boroversk","Zhigukarino","Yelerbent","Belgotoust","Denyev","Sibarodvinsk","Batavgrad","Zlalovka","Nefteyulym","Birobilovsk","Buguretsk","Oktyazan","Meborg","Kuznebodny","Novoupovets"]
 	}
