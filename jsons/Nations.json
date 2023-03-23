@@ -83,10 +83,40 @@
 		"hateYes":"Be happy, that I'm agree!",
 
 		"tradeRequest": "I have a trade, you can't reject!",
-		"innerColor": [255,255,0],
-		"outerColor": [0,191,0],
+		"innerColor": [255,255,38],
+		"outerColor": [0,162,0],
 		"uniques": ["[+50]% [Production]","[+50]% [Science]","[+50]% [Food]","[-100]% [Faith]"],
 		"uniqueName": "Comunistic form of goverment",
 		"cities": ["Sarorovsk","Apaysk","Volokavkaz","Gukoshikha","Balalitamak","Boroversk","Zhigukarino","Yelerbent","Belgotoust","Denyev","Sibarodvinsk","Batavgrad","Zlalovka","Nefteyulym","Birobilovsk","Buguretsk","Oktyazan","Meborg","Kuznebodny","Novoupovets"]
+	},
+	{
+		"name": "Revolution's freedom",
+		"leaderName": "Yeva",
+		"adjective": ["Revolutionic"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Culturual",
+
+		"startIntroPart1": "Hi! You're our new leader? Great, we're waiting for you! Let's go, create our nation!",
+		"startIntroPart2": "Oh, and... We have enemies... Yeah...",
+
+		"declaringWar": "For freedom!",
+		"attacked": "We won't yeild.",
+		"defeated": "There will be others...",
+		"introduction": "Hi!",
+
+		"neutralHello": "Hi.",
+		"neutralNo": "Noup.",
+		"neutralYes": "Of course!",
+
+		"hateHello": "You came here again?",
+		"hateNo": "No, no, and no again!",
+		"hateYes":"This is actually good. Ok.",
+
+		"tradeRequest":  "Wanna trade?",
+		"innerColor": [255,127,0],
+		"outerColor": [127,0,127],
+		"uniques": ["[+10]% [Production]","[+20]% [Food]","[-50]% [Gold]","[-20]% [Science]","[+100]% [Culture]","[+100]% [Happiness]","[+100]% [Faith]"],
+		"uniqueName": "Unaccuracy of leader",
+		"cities": ["Bazas","Evgrad","Barkamsted","Ritherhithe","Grimsby","Kelna","Kincardline","Berkhamsted","Westwend","Wimborne","Astrakhan","Glarnyraefon","Lybster","Dundee","Coniston","Paethsmouth","Nearon","Scrabster","Barnemouth"]
 	}
 ]

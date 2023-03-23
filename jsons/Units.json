@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Runner",
+      "unitType": "Scout",
+      "replaces": "Scout",
+      "uniqueTo": "MVS",
+      "movement": 10,
+      "strength": 1,
+      "cost": 25,
+      "obsoleteTech": "Scientific Theory",
+      "uniques": ["Never appears as a Barbarian unit","May enter foreign tiles without open borders"],
+      "promotions": ["Ignore terrain cost"],
+      "attackSound": "nonmetalhit"
+    },
+    {
+      "name": "SU-27",
+      "unitType": "Fighter",
+      "replaces": "Jet Fighter",
+      "uniqueTo": "PMCM",
+      "movement": 1,
+      "strength": 100,
+      "rangedStrength": 100,
+      "range": 20,
+      "interceptRange": 20,
+      "cost": 425,
+      "requiredTech": "Lasers",
+      "requiredResource": "Aluminum",
+      "uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+      "attackSound": "jetgun"
+    },
+    {
+        "name": "Officer",
+		"unitType": "Gunpowder",
+        "replaces": "Rifleman",
+        "uniqueTo": "New Zealand's Comunists",
+		"movement": 2,
+		"strength": 24,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+        "promotions": ["Shock I","Drill I","Cover I","Ambush I"],
+		"attackSound": "shot"
+    },
+    {
+        "name": "Revolutioner",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry",
+		"uniqueTo": "Revolution's freedom",
+		"movement": 4,
+		"strength": 200,
+		"cost": 360,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+    }
+]
