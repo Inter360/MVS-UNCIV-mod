@@ -115,7 +115,7 @@
 		"tradeRequest":  "Wanna trade?",
 		"innerColor": [255,127,0],
 		"outerColor": [127,0,127],
-		"uniques": ["[+10]% [Production]","[+20]% [Food]","[-50]% [Gold]","[-20]% [Science]","[+100]% [Culture]","[+100]% [Happiness]","[+100]% [Faith]"],
+		"uniques": ["[-10]% [Production]","[+20]% [Food]","[-50]% [Gold]","[-20]% [Science]","[+100]% [Culture]","[+100]% [Happiness]","[+100]% [Faith]"],
 		"uniqueName": "Unaccuracy of leader",
 		"cities": ["Bazas","Evgrad","Barkamsted","Ritherhithe","Grimsby","Kelna","Kincardline","Berkhamsted","Westwend","Wimborne","Astrakhan","Glarnyraefon","Lybster","Dundee","Coniston","Paethsmouth","Nearon","Scrabster","Barnemouth"]
 	}
