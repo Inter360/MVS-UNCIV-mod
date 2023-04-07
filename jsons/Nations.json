@@ -15,12 +15,7 @@
 		"introduction": "I hope, we'll find common ground.",
 
 		"neutralHello": "Greetings.",
-		"neutralNo": "Thank you, but no.",
-		"neutralYes": "I'm agree.",
-
 		"hateHello": "I have no time for you.",
-		"hateNo": "Forget it.",
-		"hateYes":"Fine...",
 
 		"tradeRequest": "Can we trade?",
 		"innerColor": [127,0,255],
@@ -45,12 +40,7 @@
 		"introduction": "Hello, fella.",
 
 		"neutralHello": "Hi.",
-		"neutralNo": "No.",
-		"neutralYes": "Ok.",
-
 		"hateHello": "What again?",
-		"hateNo": "Get lost.",
-		"hateYes":"If you want it so much...",
 
 		"tradeRequest": "Can I have a sugestion?",
 		"innerColor": [255,255,255],
@@ -75,12 +65,7 @@
 		"introduction": "Greetings, Comrade!",
 
 		"neutralHello": "Greetings!",
-		"neutralNo": "My answer is positive.",
-		"neutralYes": "My answer is negative.",
-
 		"hateHello": "You should leave while you can...",
-		"hateNo": "Don't play with me!",
-		"hateYes":"Be happy, that I'm agree!",
 
 		"tradeRequest": "I have a trade, you can't reject!",
 		"innerColor": [255,255,38],
@@ -105,12 +90,7 @@
 		"introduction": "Hi!",
 
 		"neutralHello": "Hi.",
-		"neutralNo": "Noup.",
-		"neutralYes": "Of course!",
-
 		"hateHello": "You came here again?",
-		"hateNo": "No, no, and no again!",
-		"hateYes":"This is actually good. Ok.",
 
 		"tradeRequest":  "Wanna trade?",
 		"innerColor": [255,127,0],
