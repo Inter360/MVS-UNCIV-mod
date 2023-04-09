@@ -4,7 +4,7 @@
       "unitType": "Scout",
       "replaces": "Scout",
       "uniqueTo": "MVS",
-      "movement": 10,
+      "movement": 7,
       "strength": 1,
       "cost": 25,
       "obsoleteTech": "Scientific Theory",
