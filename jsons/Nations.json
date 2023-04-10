@@ -20,7 +20,7 @@
 		"tradeRequest": "Can we trade?",
 		"innerColor": [127,0,255],
 		"outerColor": [0,0,0],
-		"uniques": ["[+100]% [Science] <when not at war>","[+100]% [Culture] <when not at war>","[+100]% [Faith] <when not at war>","[+67]% Strength <for [All] units> <when at war>","Empire enters a [1]-turn Golden Age <upon declaring friendship>"],
+		"uniques": ["[+100]% [Science] <when not at war>","[+100]% [Culture] <when not at war>","[+100]% [Faith] <when not at war>","[+67]% Strength <for [All] units> <when at war>","Empire enters a [2]-turn Golden Age <upon declaring friendship>"],
 		"uniqueName": "Peace's Power",
 		"cities": ["MVS","Islichester","Qatol","Zhaham","Kosall","Zibert","Qouver","Ophita","Ingmond","Inford","Yuaburgh","Qrosall","Olefron","Bliemond","Xeham","Seley","Esaburg","Oniowood","Terrough","Hebury","Tuport","Shedence","Trieby","Ophork","Fladena","Wria","Amdon","Idoburgh"]
 	},
