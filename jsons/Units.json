@@ -48,7 +48,7 @@
 		"replaces": "Infantry",
 		"uniqueTo": "Revolution's freedom",
 		"movement": 4,
-		"strength": 105,
+		"strength": 200,
 		"cost": 360,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
