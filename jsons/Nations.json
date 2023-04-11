@@ -46,7 +46,7 @@
 		"innerColor": [255,255,255],
 		"outerColor": [0,0 ,255],
 		"uniques": ["[+100]% [Production]","[+100]% [Gold] <when not at war>","[+100]% Strength <for [All] units> <when at war>"],
-		"uniqueName": "Factories power",
+		"uniqueName": "Factories' power",
 		"cities": ["PMCM's Center","PMCM's Factory 1","PMCM's Factory 2","PMCM's Factory 3","PMCM's Factory 4","PMCM's Factory 5","PMCM's Factory 6","PMCM's Factory 7","PMCM's Factory 8","PMCM's Factory 9","PMCM's Factory 10","PMCM's Factory 11","PMCM's Factory 12","PMCM's Factory 13","PMCM's Factory 14","PMCM's Factory 15","PMCM's Factory 16","PMCM's Factory 17","PMCM's Factory 18","PMCM's Factory 19","PMCM's Factory 20"]
 	},
 	{
