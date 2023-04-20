@@ -3,7 +3,7 @@
 		"name": "MVS",
 		"leaderName": "Markus",
 		"adjective": ["MVS's"],
-		"startBias": ["Forest"],
+		"startBias": ["Forest","Grassland"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Welcome to MVS. You have been chosen to be our leader. We hope, you'll prove people's hopes.",
@@ -28,7 +28,7 @@
 		"name": "PMCM",
 		"leaderName": "Max",
 		"adjective": ["PMCM's"],
-		"startBias": ["Grassland"],
+		"startBias": ["Plain"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "Welcome to Private Military Company named after Maks. It's all yours! You'll need to be good enoguh to win.",
@@ -78,7 +78,7 @@
 		"name": "Revolution's freedom",
 		"leaderName": "Yeva",
 		"adjective": ["Revolutionic"],
-		"startBias": ["Mountain"],
+		"startBias": ["Mountain","Desert"],
 		"preferredVictoryType": "Culturual",
 
 		"startIntroPart1": "Hi! You're our new leader? Great, we're waiting for you! Let's go, create our nation!",
